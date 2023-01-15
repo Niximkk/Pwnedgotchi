@@ -15,8 +15,6 @@
 
 ---
 
-<img align="left" height="150" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Image.jpg"/>
-
 ### Faces:
 
 Starting - **(-.-)** Zzz..<br />
