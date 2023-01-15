@@ -5,7 +5,9 @@
 
 > I made this code with the intention of making fun of the victims, so don't use it for malicious purposes **(T.T)**
 
-> the code is basically a "bad usb" but without the "usb" part, it works with bluetooth and originally (code from the repository) it does the following payload:
+> the code is basically a bluetooth keystroke injection attack, originally it does the following payload:
+
+> Designed for Android devices.
 
 - Opens the browser. **(O O)**
 - Opens an anonymous tab. **(O.Õ)**
