@@ -15,10 +15,11 @@
 
 ---
 
+<img align="right" alt="Gmail" width="10px" src="https://media.tenor.com/x8v1oNUOmg4AAAAM/rickroll-roll.gif" />
+
 ### Faces:
 
 Starting - **(-.-)** Zzz..<br />
 Waiting - **(o o)** Ready!<br />
 Attacking - **(^ ^)** Attacking...<br />
 
-![alt text](https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/rick-roll.gif?raw=true)
