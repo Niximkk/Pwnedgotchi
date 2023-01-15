@@ -1,5 +1,12 @@
 //Display
 
+bool passive = true;
+bool started = false;
+bool shocked = false;
+String pwnstatus = "Starting...";
+String pwnface = "(-.-)";
+String pwntext = "Zzz..";
+
 void startDisplay(){
   tft.init();
   tft.setRotation(1);
@@ -96,42 +103,4 @@ void shockedFace(){
   tft.setCursor(10, 60);
   tft.setTextSize(5);
   tft.print(pwnface);
-}
-
-//Attack
-
-void attack(){
-  delay(5000);
-  
-  bleKeyboard.press(KEY_LEFT_GUI);
-  bleKeyboard.print("b");
-  delay(100);
-  bleKeyboard.releaseAll();
-  delay(1000);
-
-  bleKeyboard.press(KEY_LEFT_CTRL);
-  bleKeyboard.press(KEY_LEFT_SHIFT);
-  bleKeyboard.print("n");
-  delay(100);
-  bleKeyboard.releaseAll();
-  delay(1000);
-
-  bleKeyboard.press(KEY_LEFT_CTRL);
-  bleKeyboard.print("l");
-  delay(100);
-  bleKeyboard.releaseAll();
-  delay(1000);
-
-  bleKeyboard.print("bit.ly");
-  delay(500);
-  bleKeyboard.press(KEY_RIGHT_ALT);
-  bleKeyboard.print("q");
-  delay(100);
-  bleKeyboard.releaseAll();
-  bleKeyboard.print("pwned");
-  delay(1000);
-  bleKeyboard.print("gotchirickroll");
-  delay(1000);
-  bleKeyboard.write(KEY_NUM_ENTER);
-  delay(10000);
 }

@@ -5,13 +5,6 @@
 BleKeyboard bleKeyboard;
 TFT_eSPI tft = TFT_eSPI();
 
-bool passive = true;
-bool started = false;
-bool shocked = false;
-String pwnstatus = "Starting...";
-String pwnface = "(-.-)";
-String pwntext = "Zzz..";
-
 void setup() {
   startDisplay();
   passiveFace();
@@ -20,10 +13,9 @@ void setup() {
 }
 
 void loop() {
-  buttonsHandler();
   if(bleKeyboard.isConnected()) {
      shockedFace();
-     attack();
+     payload();
   }
   if(!bleKeyboard.isConnected()) {
      startedFace();
