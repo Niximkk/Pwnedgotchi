@@ -20,3 +20,5 @@
 Starting - **(-.-)** Zzz..<br />
 Waiting - **(o o)** Ready!<br />
 Attacking - **(^ ^)** Attacking...<br />
+
+![alt text](https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/rick-roll.gif?raw=true)
