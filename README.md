@@ -16,14 +16,10 @@
 - Does all this again. **(Ò Ó)**
 
 ---
+<p align="center">
 
-<img align="left" alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Starting.png?raw=true" />
-<img align="left" alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Ready.png?raw=true" />
-<img align="left" alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Attacking.png?raw=true" />
-
-### Faces:
-
-Starting. <br />
-Waiting. <br />
-Attacking. <br />
+<img alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Starting.png?raw=true" />
+<img alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Ready.png?raw=true" />
+<img alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Attacking.png?raw=true" />
+</p>
 
