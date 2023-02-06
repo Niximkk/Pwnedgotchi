@@ -17,11 +17,13 @@
 
 ---
 
-<img align="right" alt="Gmail" width="10px" src="https://media.tenor.com/x8v1oNUOmg4AAAAM/rickroll-roll.gif" />
+<img align="left" alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Starting.png?raw=true" />
+<img align="left" alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Ready.png?raw=true" />
+<img align="left" alt="Gmail" src="https://github.com/Niximkk/Pwnedgotchi/blob/main/Images/Attacking.png?raw=true" />
 
 ### Faces:
 
-Starting - **(-.-)** Zzz..<br />
-Waiting - **(o o)** Ready!<br />
-Attacking - **(^ ^)** Attacking...<br />
+Starting. <br />
+Waiting. <br />
+Attacking. <br />
 
