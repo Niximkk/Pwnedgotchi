@@ -1,8 +1,9 @@
 
 ## Pwnedgotchi!
 
-<p align="center">
+<p align="left">
   <img alt="ArduinoIDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img alt="ArduinoIDE" src="https://img.shields.io/badge/Lilygo_T1-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 </p>
 
 ⚠️ Don't use it for malicious purposes.
