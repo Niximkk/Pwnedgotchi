@@ -7,17 +7,17 @@ TFT_eSPI tft = TFT_eSPI();
 
 void setup() {
   startDisplay();
-  passiveFace();
+  startingFace();
   bleKeyboard.setName("Pwnedgotchi!");
   bleKeyboard.begin();
 }
 
 void loop() {
   if(bleKeyboard.isConnected()) {
-     shockedFace();
+     attackingFace();
      payload();
   }
   if(!bleKeyboard.isConnected()) {
-     startedFace();
+     workingFace();
   }
 }

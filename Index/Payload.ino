@@ -42,5 +42,5 @@ void payload(){
   bleKeyboard.print("gotchirickroll"); // Print gotchirickroll
   delay(1000); // Wait the full text
   bleKeyboard.write(KEY_NUM_ENTER); // Press enter
-  delay(10000); // Repeat after 10 sec
+  delay(10000); // Wait...
 }
